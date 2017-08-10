@@ -1,7 +1,7 @@
 dock0/full_arch
 =======
 
-[![Automated Build](http://img.shields.io/badge/automated-build-green.svg)](https://hub.docker.com/r/dock0/full_arch/)
+[![Automated Build](https://img.shields.io/docker/build/dock0/full_arch.svg)](https://hub.docker.com/r/dock0/full_arch/)
 [![Build Status](https://img.shields.io/circleci/project/dock0/full_arch/master.svg)](https://circleci.com/gh/dock0/full_arch)
 [![MIT Licensed](http://img.shields.io/badge/license-MIT-green.svg)](https://tldrlegal.com/license/mit-license)
 
