@@ -1,3 +1,3 @@
-FROM docker.pkg.github.com/dock0/arch/arch:20210408-df2fd2d
+FROM docker.pkg.github.com/dock0/arch/arch:20210408-d9fe053
 MAINTAINER akerl <me@lesaker.org>
 RUN pacman -S --needed --noconfirm base
